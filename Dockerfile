@@ -1,2 +1,2 @@
-echo "FROM nginx:latest "
-echo "LABEL Team = BrownBag"  
+FROM nginx:latest
+LABEL Team = BrownBag  
