@@ -1,2 +1,2 @@
 FROM nginx:latest
-LABEL Team = BraunBag
+LABEL Team = BraunBag1
